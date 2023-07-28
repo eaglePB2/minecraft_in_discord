@@ -1,5 +1,11 @@
 ![](game_cover.png)
 
+![school project status](https://github.com/eaglePB2/school_project/actions/workflows/static.yml/badge.svg)
+<hr>
+
+### Hosted by:
+![Powered By Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+
 # Play Minecraft in Discord
 - 当你找到这里的时候，可能有三种情况：
   - 你在游览我的github pages看到了这个
