@@ -1,4 +1,4 @@
-[](game_cover.png)
+![](game_cover.png)
 
 # Play Minecraft in Discord
 - 当你找到这里的时候，可能有三种情况：
@@ -23,5 +23,5 @@
 <meta name="twitter:image" content="{你的图片链接}">
 ```
 - 图片方面的话，你可能需要一个模板，这个档案已经提供一个模板给你了:
-[](template.png)
+![](template.png)
 - 所以某种程度上，你也可以拿来伪装成其他游戏 继续钓鱼咯ouob
